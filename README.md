@@ -5,6 +5,17 @@ videos by (1) applying an [automatic summarization](https://en.wikipedia.org/wik
 algorithm to their subtitles to find the N most important sentences,
 then (2) compiling the video regions where those sentences appear.
 
+Please cite this library if you end up using it academically:
+
+APA style:
+
+```Germanidis, A. (2015). Videodigest [Software]. Available from https://github.com/agermanidis/videodigest.```
+
+Chicago style:
+
+```Germanidis, A. 2015. Videodigest.```
+
+
 ### Installation
 
 ```
